@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/idle1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/idle2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/idle3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_down1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_down2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_down3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_left1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_left2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_left3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_right1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_right2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_right3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_up1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_up2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/Entity/Player/run_up3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/cake.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/exclamationMark.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/globe.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/glowedCake.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/glowedGlobe.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/glowedPC.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/glowedPCGreen.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/glowedSwitcher.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/pc.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/pcGreen.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/InteractiveElements/switcher.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MainGame/Room.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/message.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MiniGames/minigame field.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MiniGames/minigames background.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/MiniGames/text.spritefont</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 1.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 2.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 3.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 4.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 5.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/button 6.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/CoinCounter.spritefont</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/flat ui interface.png</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/PassiveIncome.spritefont</File>
+    <File>D:/urfu/c#/office worker simulator/office worker simulator/Content/SidePanel/text menu and coin.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
